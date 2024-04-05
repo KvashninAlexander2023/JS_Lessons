@@ -53,7 +53,7 @@
 //   { name: "Chris", grade: "C" },
 // ];
 
-// const student1 = students[0].name;
+// const student1 = students[0].name;       не правильно!!!
 // const student2 = students[1].name;
 // const student3 = students[2].name;
 
